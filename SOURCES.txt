@@ -1,0 +1,4 @@
+YePack local integration.
+Tool textures and texture relief reference: user-provided LittleGreen v1.0.
+Sound samples: user-provided PVP Sound Resource Kit and local Windows system recordings.
+Optional fonts and clear-sky assets are supplied by the YePack client integration.

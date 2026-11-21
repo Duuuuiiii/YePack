@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_fire_side_alt",
+  "textures": {
+    "fire": "minecraft:block/threemeow_world_fire_0"
+  }
+}

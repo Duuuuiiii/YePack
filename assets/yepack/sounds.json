@@ -1,0 +1,10 @@
+{
+  "player.self_hurt": {
+    "sounds": [
+      {
+        "name": "yepack:self_hurt",
+        "volume": 0.84
+      }
+    ]
+  }
+}
